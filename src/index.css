@@ -1,0 +1,24 @@
+* {
+    /* font-family: "Lucida Console", "Courier New"; */
+    font-family: 'Barlow';
+    color: white;
+    background-color: black;
+}
+
+body {
+    padding-top: 20px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+}
+#root{
+    margin: 10px 50px 20px;
+    line-height: 1.6; 
+}
+
+h1 {
+    font-family: 'crypto CRASH', sans-serif;
+    letter-spacing: 4px;
+    color: #61dafb;
+    border-bottom: 4px solid #61dafb;
+}
