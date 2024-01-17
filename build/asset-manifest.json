@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b3ad4ea.css",
+    "main.js": "/static/js/main.3a3454d8.js",
+    "static/media/truth-project.png": "/static/media/truth-project.3c9f644c18d6f336383e.png",
+    "static/media/logoImage.jpeg": "/static/media/logoImage.09d5b4ba92277134d36d.jpeg",
+    "static/media/hiv-protease.jpg": "/static/media/hiv-protease.b0a7b15006a172bab3a9.jpg",
+    "index.html": "/index.html",
+    "main.9b3ad4ea.css.map": "/static/css/main.9b3ad4ea.css.map",
+    "main.3a3454d8.js.map": "/static/js/main.3a3454d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b3ad4ea.css",
+    "static/js/main.3a3454d8.js"
+  ]
+}
